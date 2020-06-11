@@ -26,5 +26,8 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/kushneryk/crypto-trade.git"
+  },
+  "dependencies": {
+    "ws": "^7.3.0"
   }
 }
