@@ -1,0 +1,30 @@
+{
+  "name": "crypto-trade",
+  "author": {
+    "name": "Artem Kushnerik",
+    "email": "artem@kushneryk.ru"
+  },
+  "version": "0.1.0",
+  "description": "High level development SDK for trading on cryptocurrency exchnages",
+  "main": "index.js",
+  "type": "module",
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "keywords": [
+    "crypto",
+    "cryptocurrency",
+    "trading",
+    "trading bot",
+    "bitmex",
+    "binance"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kushneryk/crypto-trade.git"
+  }
+}
